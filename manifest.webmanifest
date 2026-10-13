@@ -1,0 +1,19 @@
+{
+  "name": "Kalixify Music",
+  "short_name": "Kalixify",
+  "description": "Your soundtrack, your mood.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101210",
+  "theme_color": "#101210",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
